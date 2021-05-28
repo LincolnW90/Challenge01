@@ -5,3 +5,6 @@
 # Fixing div/header assignments and classes, adding id's to sections, giving alt tags to assests
 
 # Published to http://lincoln.horiseon.com/
+
+![](assets/images/website-screenshot.jpg)
+
